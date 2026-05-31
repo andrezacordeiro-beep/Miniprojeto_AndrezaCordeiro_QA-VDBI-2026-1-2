@@ -1,4 +1,5 @@
-Relatório de Resultados e Insights Obtenção
+Relatório de Conclusões e Insights
+
 📊 Qualidade dos Dados (Saneamento)
 Foram identificadas e devidamente removidas as linhas duplicadas e os registros nulos presentes nas colunas essenciais (PR_CAT e PR_NOME), garantindo a integridade analítica das vendas.
 
@@ -25,7 +26,8 @@ Categorias de Destaque: A categoria de produto contendo o [PR_ID:81 = Higiene] c
 Maior Variação de Categorias por Datas: A data [2020-12-01] apresentou a maior variação e diversidade de categorias vendidas, o que sugere fortemente um evento promocional agressivo ou a sazonalidade característica do início das festas de dezembro impactando as vendas.
 
 
-6. Conclusões e Problemas Remanescentes
+⚠️Problemas  
+
 Conclusão 1: A higienização dos dados foi indispensável. A presença de duplicatas e dados nulos em categorias distorceria métricas básicas como Ticket Médio e Curva ABC.
 
 Conclusão 2: O cruzamento do perfil de filhos (CL_FHL) com as categorias mais vendidas abre margem para campanhas de marketing hiper-segmentadas (ex: focar produtos infantis para a moda de clientes correspondente).
