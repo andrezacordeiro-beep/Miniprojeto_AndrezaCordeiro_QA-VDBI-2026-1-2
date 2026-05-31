@@ -1,4 +1,4 @@
-![Capa do Projeto](C:\Users\ANDREZA\Desktop\Miniprojeto_AndrezaCordeiro_QA VDBI 20261 2\capa.png)
+![Capa do Projeto](capa.png)
 
 # Mini-Projeto Avaliativo: Análise Exploratória de Dados (AED) - Base Varejo
 **Curso de Visualização de Dados e Business Intelligence** **Aluno(a):** [Andreza Tatiane Nascimento dos Santos Cordeiro] | **Turma:** [QA VDBI 2026/1 2]  
@@ -37,7 +37,7 @@ Esta seção funciona como o mapa de metadados da base de dados do varejo, defin
 | 7 | **CL_SEG** | String (Categorização) | Segmentação econômica do cliente (Classes: A, B ou C). |
 | 8 | **PR_ID** | Integer/String | Código identificador do produto (SKU - Stock Keeping Unit) adquirido. |
 | 9 | **PR_CAT** | String (Categorização) | Categoria mercadológica à qual o produto adquirido pertence. |
-| 10 | **PR_NOME** | String | Nome comercial do produto adquirido. |
+| 10 | **PR_NOME** | String (Categorização) | Nome comercial do produto adquirido. |
 
 ---
 
