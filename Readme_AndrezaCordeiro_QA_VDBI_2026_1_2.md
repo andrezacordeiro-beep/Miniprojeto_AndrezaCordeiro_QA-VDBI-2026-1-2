@@ -1,4 +1,4 @@
-![Capa do Projeto](C:\Users\ANDREZA\Desktop\Miniprojeto_AndrezaCordeiro_QA VDBI 20261 2\capa.jpeg)
+![Capa do Projeto](C:\Users\ANDREZA\Desktop\Miniprojeto_AndrezaCordeiro_QA VDBI 20261 2\capa.png)
 
 # Mini-Projeto Avaliativo: Análise Exploratória de Dados (AED) - Base Varejo
 **Curso de Visualização de Dados e Business Intelligence** **Aluno(a):** [Andreza Tatiane Nascimento dos Santos Cordeiro] | **Turma:** [QA VDBI 2026/1 2]  
